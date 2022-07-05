@@ -42,7 +42,7 @@ I'm an IOS developer who is self-taught in an overview of different languages an
 <img src="https://github.com/jamesbalsa61/IOS-Projects/blob/main/Dice_application.gif" width="256"/>
 
 ### ToDoList
-- Language: Objective C
+- Language: Swift
 - Description: The user presses the "scribble" icon on the toolbar and is directed to the input text field. The user types in to do the task and presses the "Add Task" button. Next, the user will press the back button in the toolbar to the original screen. Once at the home screen, they will press the "+" icon at the bottom navigation bar, and the task will display on the screen.
 
 <img src="https://github.com/jamesbalsa61/IOS-Projects/blob/main/toDoList.gif" width="256"/>
